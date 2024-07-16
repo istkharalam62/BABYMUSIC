@@ -1,4 +1,4 @@
-from BABYMUSIC.core.bot import SHUKLA
+from BABYMUSIC.core.bot import BABY
 from BABYMUSIC.core.dir import dirr
 from BABYMUSIC.core.git import git
 from BABYMUSIC.core.userbot import Userbot
