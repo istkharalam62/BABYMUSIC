@@ -3,7 +3,7 @@ from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.errors import MessageDeleteForbidden, RPCError
 from pyrogram.types import Message
-from BABYMUSIC.utils.Baby_ban import admin_filter
+from BABYMUSIC.utils.baby_ban import admin_filter
 from BABYMUSIC import app
 
 
