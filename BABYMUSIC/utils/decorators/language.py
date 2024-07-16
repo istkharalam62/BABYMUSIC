@@ -1,4 +1,4 @@
-from SHUKLAMUSIC.misc import SUDOERS
+from SHUKLAMUSICmisc import SUDOERS
 from SHUKLAMUSIC.utils.database import get_lang, is_maintenance
 from strings import get_string
 
