@@ -1,10 +1,10 @@
 import re
-from SHUKLAMUSIC import app
+from BABYMUSIC import app
 from config import BOT_USERNAME
-from SHUKLAMUSIC.utils.Shukla_ban import admin_filter
-from SHUKLAMUSIC.mongo.filtersdb import *
-from SHUKLAMUSIC.utils.filters_func import GetFIlterMessage, get_text_reason, SendFilterMessage
-from SHUKLAMUSIC.utils.yumidb import user_admin
+from BABYMUSIC.utils.baby_ban import admin_filter
+from BABYMUSIC.mongo.filtersdb import *
+from BABYMUSIC.utils.filters_func import GetFIlterMessage, get_text_reason, SendFilterMessage
+from BABYMUSIC.utils.yumidb import user_admin
 from pyrogram import filters
 from pyrogram.enums import ChatMemberStatus
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
