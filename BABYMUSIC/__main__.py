@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from BABYMUSIC import LOGGER, app, userbot
-from BABYMUSIC import SHUKLA
+from BABYMUSIC import BABY
 from BABYMUSIC import sudo
 from BABYMUSIC import ALL_MODULES
 from BABYMUSIC import get_banned_users, get_gbanned
