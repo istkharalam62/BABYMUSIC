@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as  BSP
-from BABYMUSIC import app as SHUKLA
+from BABYMUSIC import app as BABY
 from pyrogram import filters
 url = "https://all-hashtag.com/library/contents/ajax_generator.php"
 
