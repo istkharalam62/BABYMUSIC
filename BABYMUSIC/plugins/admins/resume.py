@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from BABYMUSIC import app
-from BABYMUSIC.core.call import SHUKLA
+from BABYMUSIC.core.call import BABY
 from BABYMUSIC.utils.database import is_music_playing, music_on
 from BABYMUSIC.utils.decorators import AdminRightsCheck
 from BABYMUSIC.utils.inline import close_markup
