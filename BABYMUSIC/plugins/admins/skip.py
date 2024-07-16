@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, Message
 
 import config
 from BABYMUSIC import YouTube, app
-from BABYMUSIC.core.call import SHUKLA
+from BABYMUSIC.core.call import BABY
 from BABYMUSIC.misc import db
 from BABYMUSIC.utils.database import get_loop
 from BABYMUSIC.utils.decorators import AdminRightsCheck
