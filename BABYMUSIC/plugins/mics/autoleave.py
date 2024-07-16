@@ -5,7 +5,7 @@ from pyrogram.enums import ChatType
 
 import config
 from BABYMUSIC import app
-from BABYMUSIC.core.call import SHUKLA, autoend
+from BABYMUSIC.core.call import BABY, autoend
 from BABYMUSIC.utils.database import get_client, is_active_chat, is_autoend
 
 
