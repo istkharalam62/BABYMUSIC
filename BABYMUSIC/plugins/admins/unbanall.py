@@ -2,7 +2,7 @@ from BABYMUSIC import app
 from config import OWNER_ID
 from pyrogram import filters, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from BABYMUSIC.utils.Baby_ban import admin_filter
+from BABYMUSIC.utils.baby_ban import admin_filter
 
 BOT_ID = "6824607634"
 
