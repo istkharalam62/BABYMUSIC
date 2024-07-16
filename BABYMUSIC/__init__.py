@@ -1,8 +1,8 @@
-from SHUKLAMUSIC.core.bot import SHUKLA
-from SHUKLAMUSIC.core.dir import dirr
-from SHUKLAMUSIC.core.git import git
-from SHUKLAMUSIC.core.userbot import Userbot
-from SHUKLAMUSIC.misc import dbb, heroku
+from BABYMUSIC.core.bot import BABY
+from BABYMUSIC.core.dir import dirr
+from BABYMUSIC.core.git import git
+from BABYMUSIC.core.userbot import Userbot
+from BABYMUSIC.misc import dbb, heroku
 from pyrogram import Client
 from SafoneAPI import SafoneAPI
 from .logging import LOGGER
@@ -12,7 +12,7 @@ git()
 dbb()
 heroku()
 
-app = SHUKLA()
+app = BABY()
 api = SafoneAPI()
 userbot = Userbot()
 
