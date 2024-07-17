@@ -4,7 +4,7 @@ from BABYMUSIC import app, userbot
 from BABYMUSIC.misc import SUDOERS
 from pyrogram import * 
 from pyrogram.types import *
-from BABYMUSIC.utils.Baby_ban import admin_filter
+from BABYMUSIC.utils.baby_ban import admin_filter
 
 
 
