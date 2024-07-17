@@ -33,7 +33,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from BABYMUSIC.utils.database import get_assistant
 import asyncio
 from BABYMUSIC.misc import SUDOERS
-from BABYMUSIC.mongo.afkdb import PROCESS
+from BABYMUSIC.mango.afkdb import PROCESS
 from pyrogram import Client, filters
 from pyrogram.errors import UserAlreadyParticipant
 from BABYMUSIC import app
