@@ -290,7 +290,7 @@ async def play_commnd(
             return await mystic.delete()
         else:
             try:
-                await SHUKLA.stream_call(url)
+                await BABY.stream_call(url)
             except NoActiveGroupCall:
                 await mystic.edit_text(_["black_9"])
                 return await app.send_message(
