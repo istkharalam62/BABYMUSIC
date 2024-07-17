@@ -2,7 +2,7 @@ from BABYMUSIC import app
 from config import BOT_USERNAME
 from pyrogram import filters
 from BABYMUSIC.utils.baby_ban import admin_filter
-from BABYMUSIC.mongo.notesdb import *
+from BABYMUSIC.mango.notesdb import *
 from BABYMUSIC.utils.notes_func import GetNoteMessage, exceNoteMessageSender, privateNote_and_admin_checker
 from BABYMUSIC.utils.yumidb import user_admin
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup , Message , CallbackQuery
