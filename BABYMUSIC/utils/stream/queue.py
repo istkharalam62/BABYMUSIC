@@ -1,8 +1,8 @@
 import asyncio
 from typing import Union
 
-from SHUKLAMUSIC.misc import db
-from SHUKLAMUSIC.utils.formatters import check_duration, seconds_to_min
+from BABYMUSIC.misc import db
+from BABYMUSIC.utils.formatters import check_duration, seconds_to_min
 from config import autoclean, time_to_seconds
 
 
