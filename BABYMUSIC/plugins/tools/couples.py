@@ -9,7 +9,7 @@ from pyrogram.enums import *
 
 #BOT FILE NAME
 from BABYMUSIC import app as app
-from BABYMUSIC.mango.couples_db import _get_image, get_couple
+from BABYMUSIC.mongo.couples_db import _get_image, get_couple
 
 POLICE = [
     [
