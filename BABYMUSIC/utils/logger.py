@@ -1,7 +1,7 @@
 from pyrogram.enums import ParseMode
 
-from SHUKLAMUSIC import app
-from SHUKLAMUSIC.utils.database import is_on_off
+from BABYMUSIC import app
+from BABYMUSIC.utils.database import is_on_off
 from config import LOGGER_ID
 
 
