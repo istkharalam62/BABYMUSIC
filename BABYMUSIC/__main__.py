@@ -5,7 +5,7 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from BABYMUSIC import LOGGER, app, userbot
+from BABYMUSIC import BABY, app, userbot
 from BABYMUSIC.core.call import BABY
 from BABYMUSIC.misc import sudo
 from BABYMUSIC.plugins import ALL_MODULES
