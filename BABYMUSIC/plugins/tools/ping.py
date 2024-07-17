@@ -5,7 +5,7 @@ from pyrogram.types import Message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from config import *
 from BABYMUSIC import app
-from BABYMUSIC.core.call import SHUKLA
+from BABYMUSIC.core.call import BABY
 from BABYMUSIC.utils import bot_sys_stats
 from BABYMUSIC.utils.decorators.language import language
 from BABYMUSIC.utils.inline import supp_markup
