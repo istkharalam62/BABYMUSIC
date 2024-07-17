@@ -5,7 +5,7 @@ import heroku3
 from pyrogram import filters
 
 import config
-from BABYMUSIC.core.mongo import mongodb
+from BABYMUSIC.core.mango import mangodb
 
 from .logging import LOGGER
 
