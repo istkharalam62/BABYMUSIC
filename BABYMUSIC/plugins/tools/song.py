@@ -23,7 +23,7 @@ from pyrogram.types import (InlineKeyboardButton,
 
 from config import (BANNED_USERS, SONG_DOWNLOAD_DURATION,
                     SONG_DOWNLOAD_DURATION_LIMIT)
-from SHUKLAMUSIC.utils.decorators.language import language, languageCB
+from BABYMUSIC.utils.decorators.language import language, languageCB
 from BABYMUSIC.utils.formatters import convert_bytes
 from BABYMUSIC.utils.inline.song import song_markup
 
