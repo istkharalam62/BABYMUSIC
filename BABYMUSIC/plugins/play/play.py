@@ -7,7 +7,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from BABYMUSIC import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
-from BABYMUSIC.core.call import SHUKLA
+from BABYMUSIC.core.call import BABY
 from BABYMUSIC.utils import seconds_to_min, time_to_seconds
 from BABYMUSIC.utils.channelplay import get_channeplayCB
 from BABYMUSIC.utils.decorators.language import languageCB
