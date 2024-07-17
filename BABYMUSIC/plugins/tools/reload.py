@@ -14,7 +14,7 @@ from pyrogram import filters
 load_dotenv()
 
 from BABYMUSIC import app
-from BABYMUSIC.core.call import SHUKLA
+from BABYMUSIC.core.call import BABY
 from BABYMUSIC.misc import db
 from BABYMUSIC.utils.database import get_assistant, get_authuser_names, get_cmode
 from BABYMUSIC.utils.decorators import ActualAdminCB, AdminActual, language
