@@ -4,8 +4,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram import filters
 from pyrogram.types import Message
 from BABYMUSIC import app
-from BABYMUSIC.mango.readable_time import get_readable_time
-from BABYMUSIC.mango.afkdb import add_afk, is_afk, remove_afk
+from BABYMUSIC.mongo.readable_time import get_readable_time
+from BABYMUSIC.mongo.afkdb import add_afk, is_afk, remove_afk
 
 
 
