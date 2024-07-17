@@ -4,7 +4,7 @@ import html
 import re
 from pyrogram.types import InlineKeyboardMarkup
 from BABYMUSIC import app
-from BABYMUSIC.mango.notesdb import GetNote
+from BABYMUSIC.mongo.notesdb import GetNote
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from BABYMUSIC.utils.msg_types import button_markdown_parser
 
