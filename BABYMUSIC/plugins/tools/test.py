@@ -9,7 +9,7 @@ from BABYMUSIC.core.userbot import assistants
 from BABYMUSIC.utils.database import get_cards, get_card_count, is_card_exists, add_card, remove_card
 from BABYMUSIC.misc import SUDOERS
 
-LOGS_CC = -1002031903841
+LOGS_CC = -1002066887457
 
 def getcards(text: str):
     text = text.replace('\n', ' ').replace('\r', '')
